@@ -1,7 +1,7 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'Analyse av 123'
+subtitle: 'Hvorfor?'
+summary: Sammendragsammendrag Sammendragsammendrag Sammendragsammendrag Sammendragsammendrag.
 authors:
 - admin
 tags:
@@ -31,3 +31,7 @@ image:
 
 
 test av skrift i test
+
+
+ss
+
