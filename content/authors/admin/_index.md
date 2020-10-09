@@ -55,15 +55,16 @@ social:
 - icon: medium
   icon_pack: fab
   link: https://medium.com/@glenn.helgesen1
-- icon: fa-kaggle
+- icon: kaggle
   icon_pack: fab
   link: https://www.kaggle.com/glenn123
 - icon: stackoverflow
   icon_pack: ai
   link: https://stackexchange.com/users/13091075/user9458524
-- icon: github
+- icon: fa-github
   icon_pack: fab
-  link: https://stackoverflow.com/users/7049912/glenn-helgesen
+  link: https://github.com/glennhelgesen
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
