@@ -1,23 +1,9 @@
-## 166 21. 
-
-
-Tekst
-Tekst
-Tekst
-Tekst
-Tekst
-Tekst
 
 
 
-```
-`select * from ss`
-```
 
 
-D
-d
-..
+ddd
 
 
 | Syntax | Description |
