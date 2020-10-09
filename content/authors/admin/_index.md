@@ -97,6 +97,6 @@ As an Logistics Consultant working with two of Norway’s largest automated whol
 
 This will also be the primary focus for this blog.
 
-Main languages will be Python and SQL.
+Main languages used for analysis will be Python and SQL.
 
 Enjoy and feel free to ask any questions!
