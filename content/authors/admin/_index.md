@@ -61,7 +61,7 @@ social:
   icon_pack: fab
   link: https://www.kaggle.com/glenn123
 
-- icon: stackoverflow
+- icon: stack-overflow
   icon_pack: fab
   link: https://stackexchange.com/users/13091075/user9458524
 
