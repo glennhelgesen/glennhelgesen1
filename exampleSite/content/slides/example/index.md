@@ -155,6 +155,7 @@ Create `assets/css/reveal_custom.css` with:
 .reveal section h3 {
   color: navy;
 }
+
 ```
 
 ---
