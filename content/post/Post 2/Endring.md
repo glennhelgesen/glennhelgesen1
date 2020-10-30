@@ -37,12 +37,9 @@ draft: false
 
 ---
 
-## Data Source1:
+## Data Source123:
 
-
-<iframe src="
-src="./<Basic_Machine_Learning_Intro>" width="90%" height="1000px" style="border:none;"></iframe>
-
+<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
 ddd
 
