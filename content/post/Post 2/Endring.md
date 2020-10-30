@@ -41,7 +41,7 @@ draft: false
 
 
 <iframe
-       src="./<Basic_Machine_Learning_Intro.html>"
+       src="./<Basic_Machine_Learning_Intro>"
        width="90%"
        height="1000px"
        style="border:none;">
