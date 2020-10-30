@@ -40,13 +40,7 @@ draft: false
 ## Data Source123:
 
 
-{{< gist glennhelgesen d6ac34b2c55648eb636488ce92173dbc >}}
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video"></iframe>
-</div>
-
-
+<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
 
 ddd
