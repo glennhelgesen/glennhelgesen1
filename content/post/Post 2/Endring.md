@@ -52,7 +52,7 @@ draft: false
 </div>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"></script>
+  <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js" style="position: relative; top: 0; left: 0; width: 100%; height: 100%; border:0;"></script>
 
 </div>
 
