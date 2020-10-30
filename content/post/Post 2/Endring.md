@@ -43,11 +43,8 @@ draft: false
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"> </script>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://gist.github.com/AndrewSzymczak/db4caa6b5eaf1a60df6585e355dabd08" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
-
-
 
 
 ddd
