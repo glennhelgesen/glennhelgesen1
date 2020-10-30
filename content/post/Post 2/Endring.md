@@ -15,13 +15,6 @@ featured: false
 draft: false
 
 
- <iframe
-       src="./<Basic Machine Learning Intro>"
-       width="90%"
-       height="1000px"
-       style="border:none;">
- </iframe>
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,10 +34,18 @@ draft: false
 # projects: []
 
 
----
 
-## Data Source:
 
+## Data Soddurce:
+
+test
+
+ <iframe
+       src="./<Basic Machine Learning Intro>"
+       width="90%"
+       height="1000px"
+       style="border:none;">
+ </iframe>
 
 
 
