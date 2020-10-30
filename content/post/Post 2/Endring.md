@@ -47,22 +47,22 @@ draft: false
 <style type="text/css">
   .gist {width:300px !important;}
   .gist-file
-  .gist-data {max-height: 1300px;max-width: 1300px;}
+  .gist-data {max-height: 21300px;max-width: 300px;}
 </style>
 
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
 
-<style type="text/css"> .gist {width:1500px; overflow:auto}  .gist .file-data {max-height: 1200px;max-width: 2500px;} </style>
+<style type="text/css"> .gist {width:500px; overflow:auto}  .gist .file-data {max-height: 12200px;max-width: 500px;} </style>
 
 
 
 <style type="text/css">
-  .gist {width:2580px !important;}
+  .gist {width:580px !important;}
   .gist-file
-  .gist-data {max-height: 1320px; max-width: 1580px;}
+  .gist-data {max-height: 22320px; max-width: 580px;}
 </style>
-<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
+<script src="https://gist.github.com/AndrewSzymczak/db4caa6b5eaf1a60df6585e355dabd08.js"></script>
 
 ddd
 
