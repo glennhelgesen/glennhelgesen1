@@ -15,6 +15,12 @@ featured: false
 draft: false
 
 
+ <iframe
+       src="./<Basic Machine Learning Intro>"
+       width="90%"
+       height="1000px"
+       style="border:none;">
+ </iframe>
 
 
 # Featured image
