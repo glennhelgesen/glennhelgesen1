@@ -44,16 +44,25 @@ draft: false
 <script src="https://gist.github.com/2d7ca4eed82764833f8d93a6fea28f15.js"> </script>
 
 
-<script>
-    $(document).ready(function () {
-        $('img')
-            .attr('src', 'https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js')
-            .width('64px')
-            .height('64px');
+<style type="text/css">
+  .gist {width:300px !important;}
+  .gist-file
+  .gist-data {max-height: 1300px;max-width: 300px;}
+</style>
 
-            // CHANGE THE WIDTH AND HEIGHT AND SEE THE RESULT.
-    });
-</script>
+<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
+
+
+<style type="text/css"> .gist {width:500px; overflow:auto}  .gist .file-data {max-height: 1200px;max-width: 500px;} </style>
+
+
+
+<style type="text/css">
+  .gist {width:580px !important;}
+  .gist-file
+  .gist-data {max-height: 320px; max-width: 580px;}
+</style>
+<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
 ddd
 
