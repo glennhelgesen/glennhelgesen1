@@ -41,28 +41,12 @@ draft: false
 
 
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"> </script>
-<script src="https://gist.github.com/2d7ca4eed82764833f8d93a6fea28f15.js"> </script>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://player.vimeo.com/video/146022717" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 
-<style type="text/css">
-  .gist {width:300px !important;}
-  .gist-file
-  .gist-data {max-height: 21300px;max-width: 300px;}
-</style>
-
-<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
-
-
-<style type="text/css"> .gist {width:500px; overflow:auto}  .gist .file-data {max-height: 12200px;max-width: 500px;} </style>
-
-
-
-<style type="text/css">
-  .gist {width:580px !important;}
-  .gist-file
-  .gist-data {max-height: 22320px; max-width: 580px;}
-</style>
-<script src="https://gist.github.com/AndrewSzymczak/db4caa6b5eaf1a60df6585e355dabd08.js"></script>
 
 ddd
 
