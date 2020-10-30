@@ -41,12 +41,11 @@ draft: false
 
 
 <iframe
-       src="./<Basic_Machine_Learning_Intro>"
+       src="Basic_Machine_Learning_Intro.htm"
        width="90%"
        height="1000px"
        style="border:none;">
 </iframe>
-
 
 
 ddd
