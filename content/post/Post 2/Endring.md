@@ -76,7 +76,7 @@ draft: false
 
 
  <iframe
-       src="./<html>"
+       src="./<html.html>"
        width="90%"
        height="1000px"
        style="border:none;">
@@ -92,7 +92,7 @@ draft: false
  </iframe>
 
  <iframe
-       src="./html"
+       src="./html.html"
        width="90%"
        height="1000px"
        style="border:none;">
@@ -100,7 +100,7 @@ draft: false
 
 
  <iframe
-       src="./<html>"
+       src="./<html.html>"
        width="90%"
        height="1000px"
        style="border:none;">
