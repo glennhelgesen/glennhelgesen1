@@ -41,6 +41,10 @@ draft: false
 
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
+
+<style type="text/css"> .gist {width:500px; overflow:auto}  .gist .file-data {max-height: 500px;max-width: 500px;} </style>
+
+
 ddd
 
 
