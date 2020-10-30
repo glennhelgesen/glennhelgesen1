@@ -44,6 +44,17 @@ draft: false
 <script src="https://gist.github.com/2d7ca4eed82764833f8d93a6fea28f15.js"> </script>
 
 
+<script>
+    $(document).ready(function () {
+        $('img')
+            .attr('src', 'https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js')
+            .width('64px')
+            .height('64px');
+
+            // CHANGE THE WIDTH AND HEIGHT AND SEE THE RESULT.
+    });
+</script>
+
 ddd
 
 
