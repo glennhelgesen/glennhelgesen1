@@ -37,15 +37,10 @@ draft: false
 
 ---
 
-## Data Source:
+## Data Source1:
 
 
-<iframe
-       src="Basic_Machine_Learning_Intro.htm"
-       width="90%"
-       height="1000px"
-       style="border:none;">
-</iframe>
+<iframe src="Basic_Machine_Learning_Intro.htm" width="90%" height="1000px" style="border:none;"></iframe>
 
 
 ddd
