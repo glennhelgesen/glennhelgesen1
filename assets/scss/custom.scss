@@ -14,6 +14,13 @@
    overflow:auto;
  }
 
+ .gist iframe.render-viewer {
+   height: 5000px;
+   max-height: max-content;
+   margin-block-end: auto;
+   max-width:1350px;
+   overflow:auto;
+
  .gist .gist-data {
    height: 5000px;
    max-height: 56000px;
