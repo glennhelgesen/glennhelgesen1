@@ -39,15 +39,11 @@ draft: false
 
 ## Data Source123:
 
-.gist {
-   max-width:350px;
-   overflow:auto;
-}
+<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
-.gist .blob-wrapper.data {
-   max-height:1200px;
-   overflow:auto;
-}
+<style type="text/css"> .gist {width:500px;height:2200px overflow:auto}  .gist .file-data {max-height: 12500px;max-width: 500px;} </style>
+
+<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
 <style type="text/css">
   .gist {
