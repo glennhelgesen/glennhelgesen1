@@ -2,6 +2,7 @@
    overflow: auto!important;
    border-bottom: 1px solid #ddd!important;
    border-radius: 6px 6px 0 0!important;
+   box-sizing: border-box!important;
    }
 
 .gist .gist-file article{
@@ -13,6 +14,7 @@
 .gist iframe.render-viewer {
    height: 1000px!important;
    overflow: visible!important;
+   box-sizing: border-box!important;
    }
    
 .gist .gist-render iframe {
@@ -20,3 +22,15 @@
    width:100%;
    overflow: visible!important;
    }
+
+   div#notebook {
+      overflow: visible;
+      border-top: none;
+  }
+.flex-auto {
+   flex: auto!important;
+  }
+
+* {
+   box-sizing: border-box;
+}
