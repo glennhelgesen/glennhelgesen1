@@ -12,6 +12,7 @@
   }
    
    .gist .gist-render iframe {
+   height: max-content!important;
    width:100%;
    overflow: visible!important;
    }
