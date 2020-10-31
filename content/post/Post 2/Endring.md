@@ -41,12 +41,10 @@ draft: false
 
 glenn
 
-
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
+
 glenn
-
-
 
 
 	```
