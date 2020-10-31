@@ -44,10 +44,17 @@ draft: false
 ddd
 
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
+
+
+
+
+<style type="text/css">
+  .gist {width:300px !important;}
+  .gist-file
+  .gist-data {max-height: 300px;max-width: 300px;}
+</style>
+<script src="https://gist.github.com/lawlist/12345678.js"></script>
 
 
 	```

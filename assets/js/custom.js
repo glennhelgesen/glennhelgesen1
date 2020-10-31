@@ -1,10 +1,9 @@
 .gist {
-    max-width:650px;
+    max-width:350px;
     overflow:auto;
  }
  
  .gist .blob-wrapper.data {
-    max-height:800px;
+    max-height:200px;
     overflow:auto;
  }
-
