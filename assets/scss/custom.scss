@@ -7,9 +7,9 @@
    }
    
    .gist .gist-render iframe {
-   width:100%;
-   height: 1000px;
-   max-height: 1000px;
+   width:100%!important;
+   height: 1000px!important;
+   max-height: 1000px!important;
    }
    
    .gist pre {
