@@ -39,10 +39,20 @@ draft: false
 
 ## Data Source123:
 
+.gist {
+   max-width:350px;
+   overflow:auto;
+}
+
+.gist .blob-wrapper.data {
+   max-height:1200px;
+   overflow:auto;
+}
+
 <style type="text/css">
-  .gist {width:100px;height:11200px !important;}
+  .gist {width:1100px;height:1100 !important;}
   .gist-file
-  .gist-data {max-height: 11700px;max-width: 11200px;}
+  .gist-data {max-height: 1100;max-width: 1000;}
 </style>
 
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
@@ -55,17 +65,17 @@ ddd
 
 
 
+.gist {
+   max-width:350px;
+   overflow:auto;
+}
+
+.gist .blob-wrapper.data {
+   max-height:1200px;
+   overflow:auto;
+}
 
 
-
-
-<style type="text/css">
-  .gist {width:700px !important;}
-  .gist-file
-  .gist-data {max-height: 11700px;max-width: 11200px;}
-</style>
-
-<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
 	```
 {
