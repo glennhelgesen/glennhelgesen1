@@ -7,9 +7,7 @@
    }
    
    .gist .gist-render iframe {
-   width:100%!important;
-   height: 1000px!important;
-   max-height: 1000px!important;
+   width:100%;
    }
    
    .gist pre {
@@ -17,16 +15,9 @@
    line-height:inherit;
    white-space:pre;
    }
-
-   .gist iframe.render-viewer {
-   width: max-content!important;
-   height: 1000px!important;
-   overflow: hidden!important;
-   }
    
    .gist .gist-file {
    border:1px solid #ddd;
-   height: 1000px;
    border-bottom:1px solid #ccc;
    border-radius:3px;
    font-family:Consolas, "Liberation Mono", Courier, monospace;
@@ -35,13 +26,12 @@
    
    .gist .gist-file.gist-render {
    border:none;
-   height: 1000px;
    }
    
    .gist .gist-file .gist-meta {
    font:12px "Helvetica Neue", Helvetica, arial, freesans, clean, sans-serif;
    text-shadow:1px 1px rgba(255,255,255,0.8);
-   overflow:visible;
+   overflow:hidden;
    color:#999;
    background-color:#e8e8e8;
    background-image:linear-gradient(#fafafa,#e8e8e8);
@@ -69,11 +59,11 @@
    right:0;
    bottom:30px;
    left:0;
-   overflow:visible;
+   overflow:scroll;
    }
    
    .gist .gist-file.scroll .gist-meta {
-   position:relative;
+   position:absolute;
    bottom:0;
    right:0;
    left:0;
@@ -90,6 +80,11 @@
    margin:0!important;
    padding:0!important;
    }
+
+   .gist iframe.render-viewer {
+      height: max-content!important;
+      overflow: hidden!important;
+  }
    
    .gist .gist-file .gist-data .gist-highlight {
    background:transparent!important;
