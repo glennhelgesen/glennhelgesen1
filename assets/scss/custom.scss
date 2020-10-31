@@ -19,9 +19,9 @@
    }
 
    .gist iframe.render-viewer {
-   width: max-content;
-   height: 1000px;
-   overflow: hidden
+   width: max-content!important;
+   height: 1000px!important;
+   overflow: hidden!important;
    }
    
    .gist .gist-file {
