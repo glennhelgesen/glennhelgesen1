@@ -39,25 +39,12 @@ draft: false
 
 ## Data Source123:
 
-<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
+glenn
 
-<style type="text/css"> .gist {width:500px;height:2200px}  .gist .file-data {max-height: 12500px;max-width: 500px;} </style>
-
-<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
-
-<style type="text/css">
-  .gist {
-    max-width:1100px;
-    max-height:1200px;
-  }
-  .gist-file
-  .gist-data {max-height: 2000;max-width: 1000;}
-  .gist .blop-wrapper.data {
-    max-height:2200px;
-  }
-</style>
 
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
+
+glenn
 
 
 
