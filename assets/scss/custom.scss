@@ -9,6 +9,7 @@
    .gist .gist-render iframe {
    width:100%;
    height: 1000px;
+   max-height: 1000px;
    }
    
    .gist pre {
@@ -19,6 +20,7 @@
    
    .gist .gist-file {
    border:1px solid #ddd;
+   height: 1000px;
    border-bottom:1px solid #ccc;
    border-radius:3px;
    font-family:Consolas, "Liberation Mono", Courier, monospace;
@@ -27,6 +29,7 @@
    
    .gist .gist-file.gist-render {
    border:none;
+   height: 1000px;
    }
    
    .gist .gist-file .gist-meta {
