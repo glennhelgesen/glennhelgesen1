@@ -17,6 +17,12 @@
    line-height:inherit;
    white-space:pre;
    }
+
+   .gist iframe.render-viewer {
+   width: max-content;
+   height: 1000px;
+   overflow: hidden
+   }
    
    .gist .gist-file {
    border:1px solid #ddd;
