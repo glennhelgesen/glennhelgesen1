@@ -39,6 +39,16 @@ draft: false
 
 ## Data Source123:
 
+<style type="text/css">
+  .gist {width:300px !important;}
+  .gist-file
+  .gist-data {max-height: 1700px;max-width: 1200px;}
+</style>
+
+<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
+
+ddd
+
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
 ddd
@@ -52,10 +62,10 @@ ddd
 <style type="text/css">
   .gist {width:300px !important;}
   .gist-file
-  .gist-data {max-height: 700px;max-width: 500px;}
+  .gist-data {max-height: 1700px;max-width: 1200px;}
 </style>
-<script src="https://gist.github.com/lawlist/12345678.js"></script>
 
+<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
 
 	```
 {
