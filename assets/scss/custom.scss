@@ -35,7 +35,7 @@
    .gist .gist-file .gist-meta {
    font:12px "Helvetica Neue", Helvetica, arial, freesans, clean, sans-serif;
    text-shadow:1px 1px rgba(255,255,255,0.8);
-   overflow:hidden;
+   overflow:visible;
    color:#999;
    background-color:#e8e8e8;
    background-image:linear-gradient(#fafafa,#e8e8e8);
@@ -63,7 +63,7 @@
    right:0;
    bottom:30px;
    left:0;
-   overflow:auto;
+   overflow:visible;
    }
    
    .gist .gist-file.scroll .gist-meta {
