@@ -1,7 +1,19 @@
+.gist .gist-data {
+   overflow: auto!important;
+   border-bottom: 1px solid #ddd!important;
+   border-radius: 6px 6px 0 0!important;
+   }
+
+.gist .gist-file article{
+   padding: 6px!important;
+   }
+.gist .gist-file {
+   margin-bottom: 1em!important;
+   }
 .gist iframe.render-viewer {
    height: auto!important;
    overflow: visible!important;
-  }
+   }
    
 .gist .gist-render iframe {
    height: 100%!important;
