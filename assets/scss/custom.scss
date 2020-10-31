@@ -1,7 +1,6 @@
 .gist iframe.render-viewer {
-   height: 100%!important;
-   max-height: 100%!important;
-   overflow: auto!important;
+   height: auto!important;
+   overflow: visible!important;
   }
    
 .gist .gist-render iframe {
