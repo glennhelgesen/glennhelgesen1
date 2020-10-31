@@ -40,9 +40,9 @@ draft: false
 ## Data Source123:
 
 <style type="text/css">
-  .gist {width:300px !important;}
+  .gist {width:700px !important;}
   .gist-file
-  .gist-data {max-height: 1700px;max-width: 1200px;}
+  .gist-data {max-height: 11700px;max-width: 11200px;}
 </style>
 
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
@@ -60,9 +60,9 @@ ddd
 
 
 <style type="text/css">
-  .gist {width:300px !important;}
+  .gist {width:700px !important;}
   .gist-file
-  .gist-data {max-height: 1700px;max-width: 1200px;}
+  .gist-data {max-height: 11700px;max-width: 11200px;}
 </style>
 
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
