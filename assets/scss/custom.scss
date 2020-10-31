@@ -1,4 +1,5 @@
 .gist {
+   height: max-content;
    max-height: max-content;
    margin-block-end: auto;
    max-width:1350px;
@@ -6,6 +7,7 @@
 }
 
 .gist .gist-file {
+   height: 5000px;
    max-height: max-content;
    margin-block-end: auto;
    max-width:1350px;
@@ -13,14 +15,15 @@
  }
 
  .gist .gist-data {
-   max-height: max-content;
+   height: 5000px;
+   max-height: 56000px;
    margin-block-end: auto;
    max-width:1350px;
    overflow:auto;
 }
  
 .gist .blob-wrapper.data {
+   height: 1000px;
    max-height: max-content;
    overflow:auto;
 }
-
