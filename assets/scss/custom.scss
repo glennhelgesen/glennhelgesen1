@@ -14,9 +14,9 @@
    overflow:auto;
 }
 
- .gist iframe.render-viewer {
+ .gist .gist iframe.render-viewer {
    height: 5000px;
-   max-height: max-content;
+   max-height: 5000px;
    margin-block-end: auto;
    max-width:1350px;
    overflow:auto;
