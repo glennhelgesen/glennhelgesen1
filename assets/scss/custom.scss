@@ -7,12 +7,13 @@
    }
    
    .gist iframe.render-viewer {
-      height: max-content!important;
-      overflow: visible!important;
+   height: max-content!important;
+   overflow: visible!important;
   }
    
    .gist .gist-render iframe {
    width:100%;
+   overflow: visible!important;
    }
    
    .gist pre {
