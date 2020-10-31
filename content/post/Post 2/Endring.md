@@ -50,8 +50,10 @@ draft: false
 }
 
 <style type="text/css">
-  .gist {max-width:1100px;
-        overflow:auto;}
+  .gist {
+    max-width:1100px;
+    overflow:auto;
+  }
   .gist-file
   .gist-data {max-height: 1100;max-width: 1000;}
   .gist .blop-wrapper.data {
@@ -61,12 +63,6 @@ draft: false
 </style>
 
 <script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
-
-ddd
-
-<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
-
-ddd
 
 
 
