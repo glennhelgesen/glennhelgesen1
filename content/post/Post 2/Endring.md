@@ -52,12 +52,13 @@ draft: false
 <style type="text/css">
   .gist {
     max-width:1100px;
+    max-height:1200px;
     overflow:auto;
   }
   .gist-file
-  .gist-data {max-height: 1100;max-width: 1000;}
+  .gist-data {max-height: 2000;max-width: 1000;}
   .gist .blop-wrapper.data {
-    max-height:1200px;
+    max-height:2200px;
     overflow:auto;
   }
 </style>
