@@ -21,13 +21,13 @@ organizations:
 bio: test
 
 interests:
-- Data Analytics and machine learning
-  - Pandas, plotly, scikit-learn, 
-- SQL and database management
-- New technology
-- Running
-- Cross Country Skiing
-- Golf
+* Data Analytics and machine learning
+  * Pandas, Plotly, scikit-learn, 
+* SQL and database management
+* New technology
+* Running
+* Cross Country Skiing
+* Golf
 
 
 
