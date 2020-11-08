@@ -14,19 +14,20 @@ role: System Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: Test Test
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: test
 
-interests:
-- Data Analytics
-- Machine Learning
-- New technology
-- Running
-- Cross Country Skiing
-- Golf
+Topics of interests:
+* Data Analytics and machine learning
+  * Pandas, plotly, scikit-learn, 
+* SQL and database management
+* New technology
+* Running
+* Cross Country Skiing
+* Golf
 
 
 education:
@@ -93,9 +94,7 @@ user_groups:
 - Visitors
 ---
 
-As an Logistics Consultant working with two of Norway’s largest automated wholesaling warehouses I have my key experience in the development and design of WMS and WCS systems within supply chains. Besides working with analytical tasks in this profession, I also like to build and develop machine learning models and create data visualizations using various programming tools on my own.
-
-This will also be the primary focus for this blog.
+As an Logistics Consultant working with two of Norway’s largest automated wholesaling warehouses I have my key experience in the development and design of WMS and WCS systems within supply chains. Besides working with analytical tasks in this profession, I also like to build and develop machine learning models and create data visualizations using various programming tools on my own. This will also be the primary focus for this page.
 
 Main languages used for analysis will be Python and SQL.
 
