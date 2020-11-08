@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: test
 
-Topics of interests:
+interests:
 - Data Analytics and machine learning
   - Pandas, plotly, scikit-learn, 
 - SQL and database management
@@ -28,6 +28,7 @@ Topics of interests:
 - Running
 - Cross Country Skiing
 - Golf
+
 
 
 education:
