@@ -21,13 +21,13 @@ organizations:
 bio: test
 
 interests:
-* Data Analytics and machine learning
-  * Pandas, Plotly, scikit-learn, 
-* SQL and database management
-* New technology
-* Running
-* Cross Country Skiing
-* Golf
+- Data Analytics and machine learning
+- Pandas, Plotly, scikit-learn, 
+- SQL and database management
+- New technology
+- Running
+- Cross Country Skiing
+- Golf
 
 
 
@@ -95,7 +95,7 @@ user_groups:
 - Visitors
 ---
 
-As an Logistics Consultant working with two of Norway’s largest automated wholesaling warehouses I have my key experience in the development and design of WMS and WCS systems within supply chains. Besides working with analytical tasks in this profession, I also like to build and develop machine learning models and create data visualizations using various programming tools on my own. This will also be the primary focus for this page.
+As an Logistics Consultant working with two of Norway’s largest automated warehouses I have my key experience in the development and design of WMS and WCS systems within supply chains. Besides working with analytical tasks in this profession, I also on my spare time like to build and develop machine learning models and create data visualizations using various programming tools on my own. This will also be the primary focus for this page. 
 
 Main languages used for analysis will be Python and SQL.
 
