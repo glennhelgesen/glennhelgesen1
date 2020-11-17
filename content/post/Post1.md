@@ -1,13 +1,14 @@
 ---
-title: 'Test'
-subtitle: 'Testing12'
-summary: Tester
+title: 'Create a pkl file from the ML model'
+subtitle: ''
+summary: Create a pkl file from the ML model
 authors:
 - admin
 tags:
-- testtag, sql
+- ML
+- Python
 categories:
-- testcategori
+- Open Post
 
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
@@ -36,11 +37,12 @@ draft: false
 
 
 ---
-Markdown starter her
-## Data Source123:
 
-glenn
+## Below is a gist where I show how to create a pkl file from a Machine Learning model.
 
-<script src="https://gist.github.com/glennhelgesen/d6ac34b2c55648eb636488ce92173dbc.js"></script>
+
+Notebook:
+
+<script src="https://gist.github.com/glennhelgesen/e5b4f2768074e0aa285457d654c9b21d.js"></script>
 
 
