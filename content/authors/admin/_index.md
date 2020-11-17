@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: test
+bio: 
 
 interests:
 - Data Analytics and machine learning
-- Pandas, Plotly, scikit-learn, 
+- Pandas, Plotly, scikit-learn
 - SQL and database management
 - New technology
 - Running

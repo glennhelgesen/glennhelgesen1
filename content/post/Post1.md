@@ -1,14 +1,14 @@
 ---
-title: 'Create a pkl file from the ML model'
+title: 'How to make your ML model ready for production'
 subtitle: ''
-summary: Create a pkl file from the ML model
+summary: Using the PKL file 
 authors:
 - admin
 tags:
 - ML
 - Python
 categories:
-- Open Post
+- Post
 
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
@@ -37,8 +37,6 @@ draft: false
 
 
 ---
-
-## Below is a gist where I show how to create a pkl file from a Machine Learning model.
 
 
 Notebook:
